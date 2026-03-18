@@ -1,10 +1,18 @@
 [
   {
     "userId": "Ndizz",
-    "pesan": "✨ Order joki Joki Free Fire FT berhasil dibuat. Admin akan menghubungi via WhatsApp ke nomor 6282118354705.",
+    "pesan": "â¨ Order joki Joki Free Fire FT berhasil dibuat. Admin akan menghubungi via WhatsApp ke nomor 6282118354705.",
     "type": "info",
     "id": 1773835131674,
     "read": false,
     "waktu": "Rabu, 18 Maret 2026 pukul 18.58"
+  },
+  {
+    "userId": "Ndizz",
+    "pesan": "⚠️ Order joki Joki Free Fire FT telah dihapus oleh admin.",
+    "type": "error",
+    "id": 1773835149953,
+    "read": false,
+    "waktu": "Rabu, 18 Maret 2026 pukul 18.59"
   }
 ]
